@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
   <a href="mailto:qiyupeng99@gmail.com">qiyupeng99@gmail.com</a> ·
-  <a href="https://github.com/YupengQI99">GitHub</a>
+  <a href="https://github.com/YupengQI99">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/yupeng-qi-aa8484388/">LinkedIn</a>
 </p>
 
 ---
