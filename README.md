@@ -1,9 +1,4 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?size=26&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Yupeng;Agentic+AI+for+Computational+Mechanics" 
-    alt="Hello, I'm Yupeng"
-  />
-</p>
+
 
 <h1 align="center">Yupeng Qi (亓宇鹏)</h1>
 <p align="center"><strong>PhD Student · University of Stuttgart</strong></p>
