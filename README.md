@@ -4,6 +4,7 @@
     alt="Hello, I'm Yupeng"
   />
 </p>
+
 <h1 align="center">Yupeng Qi (亓宇鹏)</h1>
 <p align="center"><strong>PhD Student · University of Stuttgart</strong></p>
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
@@ -17,6 +18,11 @@
   <a href="mailto:qiyupeng99@gmail.com">qiyupeng99@gmail.com</a> ·
   <a href="https://github.com/YupengQI99">GitHub</a> ·
   <a href="https://www.linkedin.com/in/yupeng-qi-aa8484388/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YupengQI99?style=social" />
+  <img src="https://img.shields.io/github/stars/YupengQI99?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
 ---
