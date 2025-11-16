@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yupeng Qi (齐宇鹏)</h1>
+<h1 align="center">Hi 👋, I'm Yupeng Qi (亓宇鹏)</h1>
 <h3 align="center">PhD Student · University of Stuttgart · Agentic Computational Mechanics</h3>
 
 <p align="center">
