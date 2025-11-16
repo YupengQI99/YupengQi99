@@ -41,14 +41,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&hide_title=true" 
+    src="https://github-readme-stats-1o5aowbxz-yupengqi99s-projects.vercel.app/api?username=YupengQI99&show_icons=true&hide_title=true" 
     alt="GitHub stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact" 
+    src="https://github-readme-stats-1o5aowbxz-yupengqi99s-projects.vercel.app/api/top-langs/?username=YupengQI99&layout=compact" 
     alt="Top languages" 
   />
 </p>
