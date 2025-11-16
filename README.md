@@ -2,14 +2,12 @@
 <p align="center"><strong>PhD Student · University of Stuttgart</strong></p>
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
----
-
-### Profile
-
-- Name: **Yupeng Qi (亓宇鹏)**  
-- Position: PhD Student, University of Stuttgart(Germany)  
-- Email: `qiyupeng99@gmail.com`  
-- Google Scholar: https://scholar.google.com/citations?user=W260jI8AAAAJ  
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
+  <a href="mailto:qiyupeng99@gmail.com">qiyupeng99@gmail.com</a> ·
+  <a href="https://yupengqi99.github.io">Homepage</a> ·
+  <a href="https://github.com/YupengQI99">GitHub</a>
+</p>
 
 ---
 
@@ -25,13 +23,13 @@
 ### Selected Work
 
 - **turbulence.ai** – end-to-end AI Scientist for fluid mechanics  
-  J. Feng, Y. Qi, R. Xu, S. Pandey, X. Chu · *Theoretical and Applied Mechanics Letters*, 2025  
+  J. Feng, <strong>Y. Qi</strong>, R. Xu, S. Pandey, X. Chu · <em>Theoretical and Applied Mechanics Letters</em>, 2025  
 
 - **Engineering.ai** – platform for teams of AI engineers in computational design  
-  R. Xu, Y. Qi, J. Feng, X. Chu · arXiv:2511.00122, 2025  
+  R. Xu, <strong>Y. Qi</strong>, J. Feng, X. Chu · arXiv:2511.00122, 2025  
 
 - **FeaGPT** – agentic AI for finite element analysis  
-  Y. Qi, R. Xu, X. Chu · arXiv:2510.21993, 2025  
+  <strong>Y. Qi</strong>, R. Xu, X. Chu · arXiv:2510.21993, 2025  
 
 ---
 
@@ -52,5 +50,5 @@
 </p>
 
 <!--
-> PhD @ University of Stuttgart · 主要研究方向：面向计算力学的 Agentic AI、湍流与有限元智能化。
+PhD @ University of Stuttgart. 主要研究方向：面向计算力学的 Agentic AI、湍流与有限元智能化。
 -->
