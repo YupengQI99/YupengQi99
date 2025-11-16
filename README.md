@@ -3,7 +3,7 @@
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
 <p align="center">
-  Core team member of the <strong>turbulence.ai</strong>, <strong>Engineering.ai</strong>, and <strong>FeaGPT</strong> projects
+  Core team member of the <strong>turbulence.ai</strong>, <strong>Engineering.ai</strong>, <strong>FeaGPT</strong>, and <strong>OpenFOAMGPT</strong> projects
 </p>
 
 <p align="center">
