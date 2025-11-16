@@ -3,8 +3,7 @@
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
 <p align="center">
-  Creator of <strong>Engineering.ai</strong> and <strong>FeaGPT</strong> ·
-  Core team member of <a href="https://turbulenz.ai/">turbulence.ai</a>
+  Core team member of the <strong>turbulence.ai</strong>, <strong>Engineering.ai</strong>, and <strong>FeaGPT</strong> projects
 </p>
 
 <p align="center">
