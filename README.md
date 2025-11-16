@@ -1,61 +1,42 @@
-<h1 align="center">Hi 👋, I'm Yupeng Qi (亓宇鹏)</h1>
-<h3 align="center">PhD Student · University of Stuttgart · Agentic Computational Mechanics</h3>
+<h1 align="center">Yupeng Qi(亓宇鹏)</h1>
+<p align="center"><strong>PhD Student · University of Stuttgart</strong></p>
+<p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
 <p align="center">
-  <a href="https://github.com/YupengQI99">
-    <img src="https://img.shields.io/github/followers/YupengQI99?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/YupengQI99?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YupengQI99?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-  </a>
+  <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
+  <a href="mailto:qiyupeng99@gmail.com">Email</a> ·
+  <a href="https://github.com/YupengQI99">GitHub</a>
 </p>
 
 ---
 
-### 🧑‍🔬 About Me
-
-- 🎓 PhD student in **Computational Mechanics**, University of Stuttgart  
-- 🔬 Research focus: **agentic AI for computational mechanics, fluid mechanics, and finite element analysis**  
-- ✉️ Institutional email verified at **shu.edu.cn**  
-- 🌍 Open to collaborations on **AI for Science / Engineering AI / Scientific ML**
-
----
-
-### 🧠 Research Interests
+### Research
 
 - Agentic AI systems for scientific discovery  
 - AI for turbulence & fluid mechanics  
 - AI-assisted finite element analysis (FEA)  
-- Automation for computational design and mechanics  
+- Engineering AI & computational design  
 
 ---
 
-### 📚 Selected Publications
+### Selected Work
 
-| Title | Authors | Venue | Citations | Year |
-| --- | --- | --- | --- | --- |
-| turbulence.ai: an end-to-end AI Scientist for fluid mechanics | J. Feng, **Y. Qi**, R. Xu, S. Pandey, X. Chu | *Theoretical and Applied Mechanics Letters*, 100620 | 2 | 2025 |
-| Engineering.ai: A Platform for Teams of AI Engineers in Computational Design | R. Xu, **Y. Qi**, J. Feng, X. Chu | *arXiv preprint arXiv:2511.00122* | - | 2025 |
-| FeaGPT: an End-to-End agentic-AI for Finite Element Analysis | **Y. Qi**, R. Xu, X. Chu | *arXiv preprint arXiv:2510.21993* | - | 2025 |
-| turbulence.ai: an end-to-end AI Scientist for fluid mechanics, towards infinite discovery | J. Feng, **Y. Qi**, R. Xu, S. Pandey, X. Chu | Extended / follow-up work | - | 2025 |
+- **turbulence.ai** – end-to-end AI Scientist for fluid mechanics  
+  J. Feng, Y. Qi, R. Xu, S. Pandey, X. Chu · *Theoretical and Applied Mechanics Letters*, 2025  
 
-> If you find these works useful, feel free to star the related repositories or cite the papers ✨
+- **Engineering.ai** – platform for teams of AI engineers in computational design  
+  R. Xu, Y. Qi, J. Feng, X. Chu · arXiv:2511.00122, 2025  
 
----
-
-### 🛠 Research & Tools
-
-- **Topics**: Agentic AI · Scientific Machine Learning · Turbulence · FEA · Computational Design  
-- **Skills**: Scientific computing, numerical simulation, automation with AI agents  
-- **Tools**: Git · GitHub · Linux · HPC & general scientific computing tools  
+- **FeaGPT** – agentic AI for finite element analysis  
+  Y. Qi, R. Xu, X. Chu · arXiv:2510.21993, 2025  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&hide_title=false" 
+    src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&hide_title=true" 
     alt="GitHub stats" 
   />
 </p>
@@ -63,13 +44,10 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact" 
-    alt="Top Langs" 
+    alt="Top languages" 
   />
 </p>
 
----
-
-### 📌 Notes
-
-- This is an auto-generated profile README for **@YupengQI99**  
-- To update publications or interests, just edit this file in the same repository  
+<!--
+> PhD @ University of Stuttgart · 主要研究方向：面向计算力学的 Agentic AI、湍流与有限元智能化。
+-->
