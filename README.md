@@ -29,30 +29,4 @@
 - **[turbulence.ai](https://turbulenz.ai/)** – end-to-end AI Scientist for fluid mechanics  
   J. Feng, <strong>Y. Qi</strong>, R. Xu, S. Pandey, X. Chu · <em>Theoretical and Applied Mechanics Letters</em>, 2025  
 
-- **Engineering.ai** – platform for teams of AI engineers in computational design  
-  R. Xu, <strong>Y. Qi</strong>, J. Feng, X. Chu · arXiv:2511.00122, 2025  
-
-- **FeaGPT** – agentic AI for finite element analysis  
-  <strong>Y. Qi</strong>, R. Xu, X. Chu · arXiv:2510.21993, 2025  
-
----
-
-### GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-1o5aowbxz-yupengqi99s-projects.vercel.app/api?username=YupengQI99&show_icons=true&hide_title=true" 
-    alt="GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-1o5aowbxz-yupengqi99s-projects.vercel.app/api/top-langs/?username=YupengQI99&layout=compact" 
-    alt="Top languages" 
-  />
-</p>
-
-<!--
-PhD @ University of Stuttgart. 主要研究方向：面向计算力学的 Agentic AI、湍流与有限元智能化。
--->
+- **Engineering.ai** – platform for teams of AI engineers in computati
