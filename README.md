@@ -1,12 +1,15 @@
-<h1 align="center">Yupeng Qi(亓宇鹏)</h1>
+<h1 align="center">Yupeng Qi (亓宇鹏)</h1>
 <p align="center"><strong>PhD Student · University of Stuttgart</strong></p>
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
-  <a href="mailto:qiyupeng99@gmail.com">Email</a> ·
-  <a href="https://github.com/YupengQI99">GitHub</a>
-</p>
+---
+
+### Profile
+
+- Name: **Yupeng Qi (亓宇鹏)**  
+- Position: PhD Student, University of Stuttgart  
+- Email: `qiyupeng99@gmail.com`  
+- Google Scholar: https://scholar.google.com/citations?user=W260jI8AAAAJ  
 
 ---
 
