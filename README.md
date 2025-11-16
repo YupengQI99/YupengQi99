@@ -3,6 +3,11 @@
 <p align="center"><em>Agentic AI for Computational Mechanics</em></p>
 
 <p align="center">
+  Creator of <strong>Engineering.ai</strong> and <strong>FeaGPT</strong> ·
+  Core team member of <a href="https://turbulenz.ai/">turbulence.ai</a>
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
   <a href="mailto:qiyupeng99@gmail.com">qiyupeng99@gmail.com</a> ·
   <a href="https://github.com/YupengQI99">GitHub</a>
@@ -21,7 +26,7 @@
 
 ### Selected Work
 
-- **turbulence.ai** – end-to-end AI Scientist for fluid mechanics  
+- **[turbulence.ai](https://turbulenz.ai/)** – end-to-end AI Scientist for fluid mechanics  
   J. Feng, <strong>Y. Qi</strong>, R. Xu, S. Pandey, X. Chu · <em>Theoretical and Applied Mechanics Letters</em>, 2025  
 
 - **Engineering.ai** – platform for teams of AI engineers in computational design  
