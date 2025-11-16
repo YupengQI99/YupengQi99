@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=W260jI8AAAAJ">Google Scholar</a> ·
   <a href="mailto:qiyupeng99@gmail.com">qiyupeng99@gmail.com</a> ·
-  <a href="https://yupengqi99.github.io">Homepage</a> ·
   <a href="https://github.com/YupengQI99">GitHub</a>
 </p>
 
