@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header: Friendly Greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hi%2C+I'm+Yupeng+%F0%9F%91%8B;Agentic+AI+%C3%97+Computational+Mechanics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hi%2C+I'm+Yupeng+%F0%9F%91%8B;Agentic+AI+%C3%97+Computational+Mechanics" alt="Typing SVG" />
 
 **PhD Student &middot; University of Stuttgart, Germany**
 
