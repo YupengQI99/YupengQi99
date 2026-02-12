@@ -62,27 +62,6 @@ I build **Agentic AI systems** that accelerate scientific discovery in computati
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YupengQI99/openfoamgpt-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=openfoamgpt-website&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
-</a>
-<a href="https://github.com/YupengQI99/jax-cfd-G">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=jax-cfd-G&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
-</a>
-<a href="https://github.com/YupengQI99/language-to-mechanics-ir">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=language-to-mechanics-ir&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
-</a>
-<a href="https://github.com/YupengQI99/RC-PINN-YuPeng-DengPan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=RC-PINN-YuPeng-DengPan&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
-</a>
-
-</div>
-
----
-
 ## Selected Publications
 
 **turbulence.ai** &mdash; End-to-end AI Scientist for fluid mechanics
