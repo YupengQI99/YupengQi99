@@ -9,7 +9,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-2d6a4f?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=W260jI8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-bc6c25?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qiyupeng99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-588157?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qi-aa8484388/)
-[![Homepage](https://img.shields.io/badge/Homepage-3a5a40?style=for-the-badge&logo=githubpages&logoColor=white)](https://yupengqi99.github.io/)
 
 </div>
 
