@@ -93,13 +93,6 @@ R. Xu, **Y. Qi**, J. Feng, X. Chu &middot; *arXiv:2511.00122*, 2025
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&include_all_commits=true&count_private=true&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000&ring_color=40916c" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact&langs_count=8&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YupengQI99&background=FFFFFF00&ring=2d6a4f&fire=bc6c25&currStreakLabel=2d6a4f&sideLabels=3a5a40&currStreakNum=2d6a4f&sideNums=588157&dates=a3b18a&border=a3b18a" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YupengQI99&bg_color=00000000&color=2d6a4f&line=588157&point=2d6a4f&area_color=a3b18a&area=true&hide_border=false&custom_title=Contribution%20Activity&border_color=a3b18a" />
 
 </div>
 
