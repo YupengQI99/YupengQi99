@@ -86,6 +86,25 @@ R. Xu, **Y. Qi**, J. Feng, X. Chu &middot; *arXiv:2511.00122*, 2025
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YupengQI99&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YupengQI99&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YupengQI99&color=2d6a4f&style=flat-square&label=Profile+Views)
