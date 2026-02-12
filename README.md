@@ -1,21 +1,15 @@
 <div align="center">
 
-<!-- Header: Typing Animation -->
-<a href="https://github.com/YupengQI99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Yupeng+Qi+%7C+%E4%BA%93%E5%AE%87%E9%B9%8F;Agentic+AI+for+Computational+Mechanics" alt="Typing SVG" />
-</a>
+<!-- Header: Friendly Greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=120&lines=Hi%2C+I'm+Yupeng+%F0%9F%91%8B;PhD+Student+%40+University+of+Stuttgart;Agentic+AI+for+Computational+Mechanics" alt="Typing SVG" />
 
 <br/>
 
-**PhD Student &middot; University of Stuttgart, Germany**
-
-<br/>
-
-<!-- Social Badges -->
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=W260jI8AAAAJ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qiyupeng99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qi-aa8484388/)
-[![Homepage](https://img.shields.io/badge/Homepage-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://yupengqi99.github.io/)
+<!-- Social Badges — nature palette -->
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-2d6a4f?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=W260jI8AAAAJ)
+[![Email](https://img.shields.io/badge/Email-bc6c25?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qiyupeng99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-588157?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yupeng-qi-aa8484388/)
+[![Homepage](https://img.shields.io/badge/Homepage-3a5a40?style=for-the-badge&logo=githubpages&logoColor=white)](https://yupengqi99.github.io/)
 
 </div>
 
@@ -40,30 +34,30 @@ I build **Agentic AI systems** that accelerate scientific discovery in computati
 
 **AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-A435F0?style=flat-square&logo=jax&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2d6a4f?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-bc6c25?style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-588157?style=flat-square&logo=jax&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3a5a40?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-40916c?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-344e41?style=flat-square&logo=openai&logoColor=white)
 
 **CFD / FEA**
 
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-528bbb?style=flat-square&logoColor=white)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-0b5394?style=flat-square&logo=freecad&logoColor=white)
-![CalculiX](https://img.shields.io/badge/CalculiX-2d6a4f?style=flat-square&logoColor=white)
-![ParaView](https://img.shields.io/badge/ParaView-E44332?style=flat-square&logoColor=white)
-![PyVista](https://img.shields.io/badge/PyVista-11557C?style=flat-square&logoColor=white)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-2d6a4f?style=flat-square&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-588157?style=flat-square&logo=freecad&logoColor=white)
+![CalculiX](https://img.shields.io/badge/CalculiX-3a5a40?style=flat-square&logoColor=white)
+![ParaView](https://img.shields.io/badge/ParaView-bc6c25?style=flat-square&logoColor=white)
+![PyVista](https://img.shields.io/badge/PyVista-40916c?style=flat-square&logoColor=white)
 
 **Languages & Tools**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-588157?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-a3b18a?style=flat-square&logo=javascript&logoColor=333)
+![Docker](https://img.shields.io/badge/Docker-2d6a4f?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-40916c?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3a5a40?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-bc6c25?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-344e41?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
@@ -74,16 +68,16 @@ I build **Agentic AI systems** that accelerate scientific discovery in computati
 <div align="center">
 
 <a href="https://github.com/YupengQI99/openfoamgpt-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=openfoamgpt-website&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=openfoamgpt-website&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 </a>
 <a href="https://github.com/YupengQI99/jax-cfd-G">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=jax-cfd-G&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=jax-cfd-G&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 </a>
 <a href="https://github.com/YupengQI99/language-to-mechanics-ir">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=language-to-mechanics-ir&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=language-to-mechanics-ir&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 </a>
 <a href="https://github.com/YupengQI99/RC-PINN-YuPeng-DengPan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=RC-PINN-YuPeng-DengPan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YupengQI99&repo=RC-PINN-YuPeng-DengPan&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 </a>
 
 </div>
@@ -96,19 +90,19 @@ I build **Agentic AI systems** that accelerate scientific discovery in computati
 <br/>
 J. Feng, **Y. Qi**, R. Xu, S. Pandey, X. Chu &middot; *Theoretical and Applied Mechanics Letters*, 2025
 <br/>
-[![Website](https://img.shields.io/badge/Website-turbulenz.ai-blue?style=flat-square)](https://turbulenz.ai/)
+[![Website](https://img.shields.io/badge/Website-turbulenz.ai-2d6a4f?style=flat-square)](https://turbulenz.ai/)
 
 **Engineering.ai** &mdash; A platform for teams of AI engineers in computational design
 <br/>
 R. Xu, **Y. Qi**, J. Feng, X. Chu &middot; *arXiv:2511.00122*, 2025
 <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2511.00122-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.00122)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.00122-bc6c25?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.00122)
 
 **FeaGPT** &mdash; Agentic AI for finite element analysis
 <br/>
 **Y. Qi**, R. Xu, X. Chu &middot; *arXiv:2510.21993*, 2025
 <br/>
-[![arXiv](https://img.shields.io/badge/arXiv-2510.21993-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.21993)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.21993-bc6c25?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.21993)
 
 ---
 
@@ -116,16 +110,16 @@ R. Xu, **Y. Qi**, J. Feng, X. Chu &middot; *arXiv:2511.00122*, 2025
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YupengQI99&show_icons=true&include_all_commits=true&count_private=true&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000&ring_color=40916c" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YupengQI99&layout=compact&langs_count=8&title_color=2d6a4f&text_color=3a5a40&icon_color=588157&border_color=a3b18a&bg_color=00000000" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YupengQI99&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YupengQI99&background=FFFFFF00&ring=2d6a4f&fire=bc6c25&currStreakLabel=2d6a4f&sideLabels=3a5a40&currStreakNum=2d6a4f&sideNums=588157&dates=a3b18a&border=a3b18a" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YupengQI99&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YupengQI99&bg_color=00000000&color=2d6a4f&line=588157&point=2d6a4f&area_color=a3b18a&area=true&hide_border=false&custom_title=Contribution%20Activity&border_color=a3b18a" />
 
 </div>
 
@@ -133,6 +127,6 @@ R. Xu, **Y. Qi**, J. Feng, X. Chu &middot; *arXiv:2511.00122*, 2025
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YupengQI99&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=YupengQI99&color=2d6a4f&style=flat-square&label=Profile+Views)
 
 </div>
